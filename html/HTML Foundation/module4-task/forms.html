@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h2>User Registration Form</h2>
+<form>
+
+    <label>Name</label>
+    <input type="text"><br><br>
+
+    <label>Email</label>
+    <input type="email" required><br><br>
+
+    <label>Password</label>
+    <input type="password"><br><br>
+
+    <label>Date of Birth</label>
+    <input type="date"><br><br>
+
+    <label>Profile Picture Upload</label>
+    <input type="file"><br><br>
+
+    <input type="submit">
+
+    <hr>
+
+    <h2>User Preferences</h2>
+
+    <form>
+        <label>Tell me more about you</label><br>
+        <textarea rows="4" cols="40">About Me...</textarea><br><br>
+
+        <label>Nationality</label>
+        <select>
+            <option value="JO">Jordan</option>
+            <option value="US">USA</option>
+            <option value="UK">UKA</option>
+        </select><br><br>
+
+        <fieldset>
+            <legend>Contact Preference</legend>
+            <input type="radio" name="contact" value="email"> Email
+            <input type="radio" name="contact" value="phone"> Phone
+        </fieldset>
+    </form>
+    <hr>
+
+    <form action="https://example.com/submit" method="post" target="_blank" autocomplete="off">
+        <label>Email</label>
+        <input type="email" required>
+        <input type="submit">
+    </form>
+    <hr>
+
+    <h2>Survey Form</h2>
+    <form>
+        <label for="">Username</label>
+        <input type="text" maxlength="10" required><br><br>
+
+        <label for="">Age</label>
+        <input type="number" min="18" max="60"><br><br>
+
+        <label for="">Favorite Programming Language</label>
+        <input type="text" list="PLang">
+        <datalist id="PLang">
+            <option value="HTML"></option>
+            <option value="CSS"></option>
+            <option value="JavaScript"></option>
+            <option value="Python"></option>
+        </datalist>
+    </form>
+</form>
+</body>
+</html>
