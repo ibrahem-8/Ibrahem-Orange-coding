@@ -1,0 +1,28 @@
+table,
+.title {
+    width: 50%;
+    margin: auto;
+}
+
+table {
+    margin-top: 5px;
+}
+
+.title {
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+th {
+    background-color: yellow;
+}
+
+#special {
+    background-color: rgba(221, 51, 128, 0.861);
+}
+
+tfoot td {
+    text-align: center;
+    font-weight:bold;
+}
