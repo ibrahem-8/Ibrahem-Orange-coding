@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+}
+
+.container {
+    width: 60%;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(97, 97, 252);
+}
+
+.container h1 {
+    margin: 0 auto;
+}
+
+.container label {
+    margin:0 5%;
+}
+
+.container input {
+    margin: 5%;
+    height: 20px;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.container textarea {
+    margin: 5%;
+}
+
+.container .btn {
+    width: fit-content;
+    height: 20px;
+    background-color: blue;
+    color: #fff;
+    font-size: 16px;
+}

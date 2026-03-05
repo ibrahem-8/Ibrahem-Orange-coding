@@ -1,0 +1,35 @@
+body {
+    width: 100%;
+    background-color: blue;
+}
+
+.container {
+    width: 370px;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(97, 97, 252);
+}
+
+.container h1 {
+    margin: 0 5%;
+}
+
+.container p {
+    text-align: center;
+}
+
+.container label {
+    margin:0 5%;
+}
+
+.container input {
+    margin: 5%;
+    height: 20px;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.container .btn {
+    width: 100px;
+}
