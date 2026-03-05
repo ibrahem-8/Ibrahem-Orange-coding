@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    border: 10px solid brown;
+}
+
+.container .num {
+    width: 25%;
+    height: 200px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}

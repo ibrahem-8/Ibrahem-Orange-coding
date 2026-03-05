@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content:flex-start;
+    height: 800px;
+    border: 10px solid burlywood;
+}
+
+.container .num {
+    width: calc(100%/9);
+    height: 800px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
