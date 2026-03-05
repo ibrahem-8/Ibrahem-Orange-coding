@@ -38,6 +38,10 @@ body {
     padding: 10px;
 }
 
+.check {
+    margin-left: 5%;
+}
+
 .register a {
     text-decoration: none;
 }
