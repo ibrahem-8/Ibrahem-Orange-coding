@@ -1,0 +1,32 @@
+body {
+    background-color: palevioletred;
+    width: 100%;
+}
+
+.a {
+    float: left;
+}
+
+.a p {
+    display: inline-block;
+    background-color: #fff;
+    width:25%;
+    height: 100px;
+    overflow: hidden;
+}
+
+.b p {
+    width: 97%;
+    height: 70px;
+    overflow-y: scroll;
+    border: 2px solid;
+    font-weight: 600;
+}
+
+.c p {
+    display: inline-block;
+    background-color: #fff;
+    width:25%;
+    height: 100px;
+    overflow: hidden;
+}
