@@ -1,0 +1,34 @@
+.cards-container {
+  display: flex;
+  gap: 20px;
+  margin: 20px;
+}
+
+.card {
+  padding: 40px 60px;
+  background-color: #eee;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+#number {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0 15px;
+  color: black;
+}
