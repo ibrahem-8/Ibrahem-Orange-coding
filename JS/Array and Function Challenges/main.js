@@ -281,4 +281,15 @@
 /////////////////////////////////////////////////////
 //* Task 30 
 
+let arr = ["hi","cat","dog","apple"];
+let obj = {};
 
+for (let index = 0; index < arr.length; index++) {
+    let len = arr[index].length;
+    if (!obj[len]) {
+        obj[len] = []
+    }
+    obj[len].push(arr[index]);
+}
+
+console.log(obj);
