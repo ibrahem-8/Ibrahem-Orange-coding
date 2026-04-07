@@ -230,8 +230,8 @@ header .header-content img {
 }
 
 #skills .skills-content .row .item {
-    color: #000;
-    background-color: #fff;
+    color: #fff;
+    background-color: #000;
     margin: 20px;
     padding: 1rem;
     border-radius: 10px;
@@ -241,7 +241,7 @@ header .header-content img {
 }
 
 #skills .skills-content .row .item:hover {
-    box-shadow: 10px 10px 10px  black;
+    box-shadow: 10px 10px 10px ;
 }
 
 #skills .skills-content .row .item:nth-child(2) img {

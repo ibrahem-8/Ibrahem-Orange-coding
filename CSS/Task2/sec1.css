@@ -6,6 +6,7 @@ body {
 .navbar {
     position: sticky;
     top: 0;
+    margin-bottom: 25%;
 }
 
 .navbar img {
@@ -17,7 +18,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 300px;
+    width: 500px;
     margin: auto;
     border: 1px solid; 
     box-shadow: 1px 1px 10px gray;
@@ -28,6 +29,7 @@ body {
     flex-direction: column;
     align-items: center;
     flex-wrap: nowrap;
+    width: 100%;
 }
 
 .card input {
@@ -49,7 +51,7 @@ body {
 
 .foot {
     position: relative;
-    top: 40vh;
+    top: 30vh;
 }
 
 .foot ul {
