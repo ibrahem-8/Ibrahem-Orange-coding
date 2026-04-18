@@ -1,0 +1,15 @@
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\bin\Debug\net8.0\Task - (Loops,String,Array).exe
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\bin\Debug\net8.0\Task - (Loops,String,Array).deps.json
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\bin\Debug\net8.0\Task - (Loops,String,Array).runtimeconfig.json
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\bin\Debug\net8.0\Task - (Loops,String,Array).dll
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\bin\Debug\net8.0\Task - (Loops,String,Array).pdb
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).AssemblyInfoInputs.cache
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).AssemblyInfo.cs
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).csproj.CoreCompileInputs.cache
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).sourcelink.json
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).dll
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\refint\Task - (Loops,String,Array).dll
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).pdb
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\Task - (Loops,String,Array).genruntimeconfig.cache
+C:\Users\Ibrahem Abu Othman\Desktop\Ibrahem-Orange-coding\C#\Task - (Loops,String,Array)\Task - (Loops,String,Array)\obj\Debug\net8.0\ref\Task - (Loops,String,Array).dll
